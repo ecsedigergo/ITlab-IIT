@@ -189,7 +189,7 @@ public class Program {
 		} catch (IllegalArgumentException e1) {
 			System.out.println("?"+e1.toString());
 		}
-		
+		//hibakezeles, es vonatszam hozzaadasa
 		try {
 			qvsz.getSingleResult();
 			System.out.println("?Nem sikerült a lekérés!!!");
