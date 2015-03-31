@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Tue Mar 31 18:45:15 CEST 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-014c-70b9-02ca-00000c86bb68 
+on database directory C:\Users\Gog\Google Drive\6.felev\ITlab\IIT1\laborfeladat2  with class loader sun.misc.Launcher$AppClassLoader@42a57993 
+Loaded from file:/C:/Users/Gog/Google%20Drive/6.felev/ITlab/IIT1/laborfeladat_2/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_25-b18
+user.dir=C:\Users\Gog\Google Drive\6.felev\ITlab\IIT1\laborfeladat_2
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
